@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "MSYS2 UCRT64",
+            "compilerPath": "C:/msys64/ucrt64/bin/gcc.exe",
+            "intelliSenseMode": "windows-gcc-x64",
+            "cStandard": "gnu17",
+            "includePath": [
+                "${workspaceFolder}",
+                "${workspaceFolder}/helpers"
+            ]
+        }
+    ],
+    "version": 4
+}
