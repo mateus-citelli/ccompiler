@@ -9,5 +9,5 @@ int compiler_file(const char* filename, const char* out_filename, int flags)
     // Perform lexical analysis
     // Perform parsing
     // Perform code generation...
-    return COMPILER_FILE_COMPILED_OK;
+    return COMPILER_FILE_COMPILED_OK
 }
